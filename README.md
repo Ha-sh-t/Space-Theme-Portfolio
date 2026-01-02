@@ -123,7 +123,7 @@ The project uses various configuration files:
 - LinkedIn: [Lakshit Bamaniya](https://www.linkedin.com/in/lakshitbamaniya/)
 - Twitter: [@BamaniyaLakshit](https://x.com/BamaniyaLakshit)
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Three.js for 3D capabilities
 - Framer Motion for animations
